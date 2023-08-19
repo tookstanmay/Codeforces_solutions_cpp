@@ -1,4 +1,4 @@
-# Codeforces Solutions
+# Codeforces Solutions in C++
 
 Welcome to my Codeforces solutions repository! In this repo, you will find my solutions to various Codeforces problems, categorized by their ratings.
 
