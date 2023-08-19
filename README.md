@@ -4,7 +4,7 @@ Welcome to my Codeforces solutions repository! In this repo, you will find my so
 
 ## Problem Ratings
 
-- [800](https://github.com/tookstanmay/Codeforces_solutions/tree/master/800_rated_codeforces)
+- [800](https://github.com/tookstanmay/Codeforces_solutions_cpp/tree/master/800_rated_codeforces)
 
 As of now, here are solutions to *800 rated problems, but in the future I'm gonna be uploading solutions to *900, and so on.
 
